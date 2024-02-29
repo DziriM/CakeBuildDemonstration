@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R9YJp1KPyNgtnK5A4T+dQ5njusSgoyI6nRETay9FsJxll+tRhMtZH7a9DFoBL9n3PvjiToPZ7cOJeA7QGsCS8Q==",
+  "success": true,
+  "projectFilePath": "W:\\RidersRepos\\CakeDemo\\MyWebApp\\MyWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mouj\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

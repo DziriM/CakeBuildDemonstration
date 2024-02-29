@@ -1,0 +1,12 @@
+W:\RidersRepos\CakeDemo\MyLibrary\bin\Release\net5.0\MyLibrary.deps.json
+W:\RidersRepos\CakeDemo\MyLibrary\bin\Release\net5.0\MyLibrary.dll
+W:\RidersRepos\CakeDemo\MyLibrary\bin\Release\net5.0\MyLibrary.pdb
+W:\RidersRepos\CakeDemo\MyLibrary\obj\Release\net5.0\MyLibrary.csproj.AssemblyReference.cache
+W:\RidersRepos\CakeDemo\MyLibrary\obj\Release\net5.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+W:\RidersRepos\CakeDemo\MyLibrary\obj\Release\net5.0\MyLibrary.AssemblyInfoInputs.cache
+W:\RidersRepos\CakeDemo\MyLibrary\obj\Release\net5.0\MyLibrary.AssemblyInfo.cs
+W:\RidersRepos\CakeDemo\MyLibrary\obj\Release\net5.0\MyLibrary.csproj.CoreCompileInputs.cache
+W:\RidersRepos\CakeDemo\MyLibrary\obj\Release\net5.0\MyLibrary.dll
+W:\RidersRepos\CakeDemo\MyLibrary\obj\Release\net5.0\refint\MyLibrary.dll
+W:\RidersRepos\CakeDemo\MyLibrary\obj\Release\net5.0\MyLibrary.pdb
+W:\RidersRepos\CakeDemo\MyLibrary\obj\Release\net5.0\ref\MyLibrary.dll
