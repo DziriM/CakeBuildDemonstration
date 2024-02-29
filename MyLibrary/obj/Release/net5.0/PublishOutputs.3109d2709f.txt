@@ -1,0 +1,3 @@
+W:\RidersRepos\CakeDemo\myLibraryArtifacts\MyLibrary.dll
+W:\RidersRepos\CakeDemo\myLibraryArtifacts\MyLibrary.deps.json
+W:\RidersRepos\CakeDemo\myLibraryArtifacts\MyLibrary.pdb
